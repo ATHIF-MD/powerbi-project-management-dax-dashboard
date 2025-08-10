@@ -1,6 +1,6 @@
 # 📊 Power BI Project Management Dashboard with DAX
 
-__An **interactive Power BI dashboard** for tracking and analyzing projects, built with a strong focus on **DAX (Data Analysis Expressions)**._
+_An **interactive Power BI dashboard** for tracking and analyzing projects, built with a strong focus on **DAX (Data Analysis Expressions)**._
 
 This project demonstrates how to transform raw project data into **dynamic KPIs, visual insights, and time-based calculations** using DAX.
 
@@ -40,7 +40,7 @@ The dataset (`Sheet1`) contains:
 ## 🛠 DAX Measures
 This project uses **DAX** to calculate KPIs and time-based metrics.
 
-### 🔹 Basic DAX Measures
+### 🔹 DAX Measures
 ```DAX
 Total Budget = SUM(Sheet1[Budget])
 
