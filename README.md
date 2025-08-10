@@ -6,7 +6,7 @@ This project demonstrates how to transform raw project data into **dynamic KPIs,
 ---
 
 ## 🖼 Dashboard Preview
-![Project Management Dashboard](<img width="1257" height="707" alt="image" src="https://github.com/user-attachments/assets/4d853d65-b201-4270-a02b-5df4589da3be" />)
+<img width="1257" height="707" alt="image" src="https://github.com/user-attachments/assets/4d853d65-b201-4270-a02b-5df4589da3be" />
 
 ---
 
@@ -18,15 +18,6 @@ This dashboard is designed to:
 - Showcase **practical DAX implementations** for business reporting.
 
 The data is fictional but reflects **real-world project tracking scenarios** — making it a great template for learning or professional use.
-
----
-
-## 🛠 DAX Measures
-This project uses **DAX** to calculate KPIs and time-based metrics.
-
-### 🔹 Basic DAX Measures
-```DAX
-Total Budget = SUM(Sheet1[Budget])
 
 ---
 
@@ -42,6 +33,15 @@ The dataset (`Sheet1`) contains:
 | **DueDate**      | Project completion or deadline date |
 | **Budget**       | Allocated budget for the project |
 | **HoursSpent**   | Total hours worked on the project |
+
+---
+
+## 🛠 DAX Measures
+This project uses **DAX** to calculate KPIs and time-based metrics.
+
+### 🔹 Basic DAX Measures
+```DAX
+Total Budget = SUM(Sheet1[Budget])
 
 Total Hours Spent = SUM(Sheet1[HoursSpent])
 
