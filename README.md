@@ -18,7 +18,7 @@ This dashboard is designed to:
 - Allow interactive filtering by **Project Manager** and **Timeline**.
 - Showcase **practical DAX implementations** for business reporting.
 
-The data is fictional but reflects **real-world project tracking scenarios** — making it a great template for learning or professional use.
+The data is fictional but reflects **real-world project tracking scenarios** and making it a great template for learning or professional use.
 
 ---
 
