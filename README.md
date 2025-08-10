@@ -1,6 +1,7 @@
 # 📊 Power BI Project Management Dashboard with DAX
 
-An **interactive Power BI dashboard** for tracking and analyzing projects, built with a strong focus on **DAX (Data Analysis Expressions)**.  
+__An **interactive Power BI dashboard** for tracking and analyzing projects, built with a strong focus on **DAX (Data Analysis Expressions)**._
+
 This project demonstrates how to transform raw project data into **dynamic KPIs, visual insights, and time-based calculations** using DAX.
 
 ---
